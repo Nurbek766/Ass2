@@ -1,0 +1,61 @@
+h1, p, b, a {
+    font-family: "Inria Serif - Bold", sans-serif, Monospace, serif;
+  } 
+
+.dropdown{
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 20%;
+    opacity: 0.9;
+}
+
+.сonteineree{
+    width: 40%;
+    padding-right: var(--bs-gutter-x, .75rem);
+    padding-left: var(--bs-gutter-x, .75rem);
+    margin: 10 0 auto;
+}   
+
+.d-block w-100{
+    display:block;
+    background-size:auto;
+}
+
+.carousel-caption{
+    color: rgb(29, 9, 9);
+}
+#img {
+    float: right; /* Выравнивание по правому краю */
+    margin-right: -600px;
+    margin-top: -300px;
+    margin-bottom: 80px;
+}
+
+#about{
+    margin-top: 120px;
+}
+
+.semitrans {
+    background-color: rgba(219, 218, 218, 0.5);
+    padding: 20px;
+}
+
+.footu{
+    margin-top: 40px;
+    background-color:rgba(54, 53, 53, 0);
+
+}
+
+.dropdown{
+    margin-top: 100px;
+}
+
+.footu{
+    background-color: rgb(61, 60, 60);
+    padding: 80Spx;
+
+}
+.text{
+    color: rgb(248, 248, 248);  
+}
